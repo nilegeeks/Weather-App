@@ -1,8 +1,5 @@
 # Weather Website
-
-Weather App Created by [Hussein Mohamed](https://twitter.com/HusseinMoHu)
-
-<img src="public/img/me.jpg" alt="Girl in a jacket" width="250" >
+Simple Weather APP
 
 ## Getting started
 To get the Node server running locally:
